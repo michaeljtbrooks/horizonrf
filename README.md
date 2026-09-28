@@ -120,4 +120,4 @@ Exported maps carry the attribution their data requires. Please do not crop it o
 
 HorizonRF is proprietary software, © 2026 Dr Michael Brooks. It is free to use during the beta under the terms in the `LICENSE` file that comes with each download. The source code is not public.
 
-Questions, bug reports and licence enquiries: **horizonrf@onleygroup.com**, or [open an issue](https://github.com/michaeljtbrooks/horizonrf/issues).
+Questions, bug reports and licence enquiries: **horizonrf -AT- onleygroup.com**, or [open an issue](https://github.com/michaeljtbrooks/horizonrf/issues).
